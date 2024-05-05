@@ -28,12 +28,24 @@ Below are the projects included in this repository:
   - `NYC_Schools_Analysis.ipynb`: Google Colab notebook for the analysis.
 - **Dependencies**: Python 3.x, Pandas, Matplotlib.
 
-### Project 3: [Project Name]
-- **Description**: Brief description of the project.
-- **Instructions**: Instructions for running the analysis and interpreting the results.
+### Project 3: Nobel Prize Winner Analysis
+
+- **Description**: In this analysis, we delve into Nobel Prize winner data to identify patterns and trends. By answering a series of questions, we aim to uncover insights about the most commonly awarded gender and birth country, analyze the distribution of US-born winners across decades and categories, explore the proportion of female laureates over time, identify the first woman to receive a Nobel Prize and her category, and identify individuals or organizations who have won multiple Nobel Prizes.
+
+- **Questions**:
+  1. What is the most commonly awarded gender and birth country?
+  2. Which decade had the highest ratio of US-born Nobel Prize winners to total winners in all categories?
+  3. Which decade and Nobel Prize category combination had the highest proportion of female laureates?
+  4. Who was the first woman to receive a Nobel Prize, and in what category?
+  5. Which individuals or organizations have won more than one Nobel Prize throughout the years?
+
+- **How to Use**: Follow the provided instructions in the notebook to explore the findings of this analysis.
 - **Files**:
-  - List of files associated with the project.
-- **Dependencies**: List of dependencies required to run the analysis.
+  - `nobel_prize_data.csv`: Dataset containing Nobel Prize winner information.
+  - `Nobel_Prize_Winner_Analysis.ipynb`: Google Colab notebook for the analysis.
+- **Dependencies**: Python 3.x, Pandas, Matplotlib.
+
+
 
 
 ## How to Use
