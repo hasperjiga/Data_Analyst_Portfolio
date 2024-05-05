@@ -37,4 +37,4 @@ Welcome to my Data Analyst portfolio! This repository houses a collection of pro
   - `Crime_Data_Analysis.ipynb`: Google Colab notebook for the analysis.
 - **Key Skills**: Data preprocessing, time series analysis, spatial analysis.
 
-  - The raw crime dataset (`crime_data.csv`) used for Project 4 analysis was too large to upload to GitHub, but it is utilized within the notebook for analysis purposes. To access the raw data, please refer to the original source provided by the Los Angeles Open Data portal.
+- **Note**: The raw crime dataset (`crime_data.csv`) used for Project 4 analysis was too large to upload to GitHub, but it is utilized within the notebook for analysis purposes. To access the raw data, please refer to the original source provided by the Los Angeles Open Data portal.
