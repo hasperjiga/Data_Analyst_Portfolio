@@ -15,7 +15,7 @@ Below are the projects included in this repository:
 - **How to Use**: Follow the provided instructions in the notebook to explore the findings of this analysis.
 - **Files**:
   - `netflix_data.csv`: Dataset containing Netflix movie and TV show information.
-  - `Netflix_Movie_Duration_Analysis.ipynb`: Google Colab notebook for the analysis.
+  - `InvestigatingNetflixMovies.ipynb`: Google Colab notebook for the analysis.
 - **Dependencies**: Python 3.x, Pandas, Matplotlib.
 
 ### Project 2: [Project Name]
