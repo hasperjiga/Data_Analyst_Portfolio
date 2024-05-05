@@ -16,12 +16,17 @@ Below are the projects included in this repository:
   - `InvestigatingNetflixMovies.ipynb`: Google Colab notebook for the analysis.
 - **Dependencies**: Python 3.x, Pandas, Matplotlib.
 
-### Project 2: [Project Name]
-- **Description**: Brief description of the project.
-- **Instructions**: Instructions for running the analysis and interpreting the results.
+## Project 2: NYC Schools Analysis
+- **Description**: In this analysis, we investigate the performance of New York City (NYC) schools based on SAT scores. The analysis aims to identify the top-performing schools and explore factors such as math results and borough-level statistics.
+- **Questions**:
+  1. Which NYC schools have the best math results?
+  2. What are the top 10 performing schools based on the combined SAT scores?
+  3. Which single borough has the largest standard deviation in the combined SAT score?
+- **How to Use**: Follow the provided instructions in the notebook to explore the findings of this analysis.
 - **Files**:
-  - List of files associated with the project.
-- **Dependencies**: List of dependencies required to run the analysis.
+  - `nyc_schools_data.csv`: Dataset containing SAT scores and school information for NYC schools.
+  - `NYC_Schools_Analysis.ipynb`: Google Colab notebook for the analysis.
+- **Dependencies**: Python 3.x, Pandas, Matplotlib.
 
 ### Project 3: [Project Name]
 - **Description**: Brief description of the project.
