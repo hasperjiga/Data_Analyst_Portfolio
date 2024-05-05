@@ -10,8 +10,6 @@ Below are the projects included in this repository:
 - **Description**: In this analysis, we explore trends in movie durations over time using the Netflix movie dataset. We address key questions about changes in movie lengths and factors influencing these trends.
 - **Questions**:
   1. Are Movies Getting Shorter?
-  2. What Factors Influence Movie Duration?
-  3. Understanding Genre Preferences
 - **How to Use**: Follow the provided instructions in the notebook to explore the findings of this analysis.
 - **Files**:
   - `netflix_data.csv`: Dataset containing Netflix movie and TV show information.
