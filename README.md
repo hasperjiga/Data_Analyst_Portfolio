@@ -1,67 +1,45 @@
- Data Analyst Portfolio
+# Data Analyst Portfolio
 
-## Overview
-Welcome to my Data Analyst portfolio repository! This repository contains a collection of data analysis projects that I've completed to showcase my skills and experience as a data analyst. Each project explores different datasets and employs various analytical techniques to derive insights and make data-driven decisions.
+Welcome to my Data Analyst portfolio! This repository houses a collection of projects demonstrating my skills and experience in data analysis. Each project showcases my ability to extract insights from data, communicate findings effectively, and make data-driven decisions.
 
 ## Projects
-Below are the projects included in this repository:
 
 ### Project 1: Netflix Movie Duration Analysis
-- **Description**: In this analysis, we explore trends in movie durations over time using the Netflix movie dataset. We address key questions about changes in movie lengths and factors influencing these trends.
-- **Questions**:
-  1. Are Movies Getting Shorter?
-- **How to Use**: Follow the provided instructions in the notebook to explore the findings of this analysis.
+
+- **Description**: Explored trends in movie durations over time using the Netflix dataset. Investigated changes in movie lengths and factors influencing these trends.
 - **Files**:
   - `netflix_data.csv`: Dataset containing Netflix movie and TV show information.
   - `InvestigatingNetflixMovies.ipynb`: Google Colab notebook for the analysis.
-- **Dependencies**: Python 3.x, Pandas, Matplotlib.
+- **Key Skills**: Data cleaning, exploratory data analysis (EDA), visualization.
 
-## Project 2: NYC Schools Analysis
-- **Description**: In this analysis, we investigate the performance of New York City (NYC) schools based on SAT scores. The analysis aims to identify the top-performing schools and explore factors such as math results and borough-level statistics.
-- **Questions**:
-  1. Which NYC schools have the best math results?
-  2. What are the top 10 performing schools based on the combined SAT scores?
-  3. Which single borough has the largest standard deviation in the combined SAT score?
-- **How to Use**: Follow the provided instructions in the notebook to explore the findings of this analysis.
+### Project 2: NYC Schools Analysis
+
+- **Description**: Analyzed the performance of New York City (NYC) schools based on SAT scores. Identified top-performing schools and explored factors influencing performance.
 - **Files**:
   - `nyc_schools_data.csv`: Dataset containing SAT scores and school information for NYC schools.
   - `NYC_Schools_Analysis.ipynb`: Google Colab notebook for the analysis.
-- **Dependencies**: Python 3.x, Pandas, Matplotlib.
+- **Key Skills**: Data manipulation, statistical analysis, data visualization.
 
 ### Project 3: Nobel Prize Winner Analysis
 
-- **Description**: In this analysis, we delve into Nobel Prize winner data to identify patterns and trends. By answering a series of questions, we aim to uncover insights about the most commonly awarded gender and birth country, analyze the distribution of US-born winners across decades and categories, explore the proportion of female laureates over time, identify the first woman to receive a Nobel Prize and her category, and identify individuals or organizations who have won multiple Nobel Prizes.
-
-- **Questions**:
-  1. What is the most commonly awarded gender and birth country?
-  2. Which decade had the highest ratio of US-born Nobel Prize winners to total winners in all categories?
-  3. Which decade and Nobel Prize category combination had the highest proportion of female laureates?
-  4. Who was the first woman to receive a Nobel Prize, and in what category?
-  5. Which individuals or organizations have won more than one Nobel Prize throughout the years?
- 
-## Project 4: Exploring Crime Data
-
-In this project, we delve into the crime data of Los Angeles, represented in the `crimes.csv` dataset, to uncover insights and patterns regarding criminal activities. By analyzing this dataset, we aim to address several questions related to crime frequencies, peak hours, locations, and victim demographics.
-
-### Key Questions:
-
-1. **Peak Crime Hour:** Which hour has the highest frequency of crimes?
-2. **Peak Night Crime Location:** Which area has the largest frequency of night crimes (crimes committed between 10pm and 3:59am)?
-3. **Victim Age Groups:** How many crimes were committed against victims in different age groups?
-
-### Dataset:
-- **File:** `crimes.csv`
-- **Description:** Dataset containing information about various crimes, including timestamps, locations, and victim demographics.
-
-
-- **How to Use**: Follow the provided instructions in the notebook to explore the findings of this analysis.
+- **Description**: Delved into Nobel Prize winner data to identify patterns and trends. Explored gender distribution, geographical trends, and other factors influencing Nobel Prize awards.
 - **Files**:
   - `nobel_prize_data.csv`: Dataset containing Nobel Prize winner information.
   - `Nobel_Prize_Winner_Analysis.ipynb`: Google Colab notebook for the analysis.
-- **Dependencies**: Python 3.x, Pandas, Numpy, Matplotlib, Seaborn.
+- **Key Skills**: Exploratory data analysis, statistical analysis, storytelling with data.
+
+### Project 4: Exploring Crime Data
+
+- **Description**: Analyzed crime data of Los Angeles to uncover insights and patterns in criminal activities. Investigated peak crime hours, crime locations, and victim demographics.
+- **Files**:
+  - `crime_data.csv`: Dataset containing crime data of Los Angeles.
+  - `Crime_Data_Analysis.ipynb`: Google Colab notebook for the analysis.
+- **Key Skills**: Data preprocessing, time series analysis, spatial analysis.
 
 ## How to Use
-To explore the projects in this repository, follow these steps:
+
+To explore the projects in this repository:
+
 1. Clone or download the repository to your local machine.
 2. Navigate to the project folder of interest.
 3. Open the project's notebook file in Google Colab or any compatible environment.
