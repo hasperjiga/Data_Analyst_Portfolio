@@ -38,15 +38,27 @@ Below are the projects included in this repository:
   3. Which decade and Nobel Prize category combination had the highest proportion of female laureates?
   4. Who was the first woman to receive a Nobel Prize, and in what category?
   5. Which individuals or organizations have won more than one Nobel Prize throughout the years?
+ 
+## Project 4: Exploring Crime Data
+
+In this project, we delve into the crime data of Los Angeles, represented in the `crimes.csv` dataset, to uncover insights and patterns regarding criminal activities. By analyzing this dataset, we aim to address several questions related to crime frequencies, peak hours, locations, and victim demographics.
+
+### Key Questions:
+
+1. **Peak Crime Hour:** Which hour has the highest frequency of crimes?
+2. **Peak Night Crime Location:** Which area has the largest frequency of night crimes (crimes committed between 10pm and 3:59am)?
+3. **Victim Age Groups:** How many crimes were committed against victims in different age groups?
+
+### Dataset:
+- **File:** `crimes.csv`
+- **Description:** Dataset containing information about various crimes, including timestamps, locations, and victim demographics.
+
 
 - **How to Use**: Follow the provided instructions in the notebook to explore the findings of this analysis.
 - **Files**:
   - `nobel_prize_data.csv`: Dataset containing Nobel Prize winner information.
   - `Nobel_Prize_Winner_Analysis.ipynb`: Google Colab notebook for the analysis.
-- **Dependencies**: Python 3.x, Pandas, Matplotlib.
-
-
-
+- **Dependencies**: Python 3.x, Pandas, Numpy, Matplotlib, Seaborn.
 
 ## How to Use
 To explore the projects in this repository, follow these steps:
